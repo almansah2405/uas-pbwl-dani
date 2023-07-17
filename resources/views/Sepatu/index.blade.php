@@ -20,7 +20,7 @@
                         <td><strong>JENIS SEPATU</strong></td>
                         <td><strong>NAMA</strong></td>
                         <td><strong>HARGA</strong></td>
-                        <td><strong>STOCK</strong></td>
+                        <td><strong>JUMLAH PEMBELIAN</strong></td>
                         <td><strong>EDIT</strong></td>
                         <td><strong>HAPUS</strong></td>
                     </tr>

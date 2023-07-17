@@ -1,5 +1,5 @@
 .bg-white{
-    background-color: #fcf700;
+    background-color: #fca400;
 }
 
 .nav {
@@ -12,7 +12,7 @@ a.nav-link {
 }
 
 body {
-background-color: #000000;
+background-color: #ffffff;
 }
 
 li.nav-item {
@@ -25,7 +25,7 @@ li.nav-item {
   --bs-table-color-state: initial;
   --bs-table-bg-state: initial;
   --bs-table-color:#000;
-  --bs-table-bg: #b44040;
+  --bs-table-bg: #bebebe;
   --bs-table-border-color: var(--bs-border-color);
   --bs-table-accent-bg: transparent;
   --bs-table-striped-color: var(--bs-body-color);
@@ -41,11 +41,15 @@ li.nav-item {
 }
 
 div.card-header {
-    background-color: #b44040;
+    background-color: #ff0000;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 3rem;
 }
 
 div.card {
-    border: 5px solid #000000;
+    border: 5px solid #ffffff;
     border-radius: 20px;
 }
 
@@ -59,7 +63,38 @@ div.card {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-td, td, td, td {
+button.nvabar-toggler {
+    border: 5px solid #000;
+    border-bottom: 5px solid #000;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: auto;
+    margin-top: 20px;
+}
+
+.card-content {
+    border: 2px solid #fff;
+    background-color: #222;
     color: #fff;
-    
+    width: 25%;
+    padding: 8px;
+    margin: 8px 8px;
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.5);
+}
+
+.card-content img {
+    width: 100%;
+    height: 85px;
+}
+
+.title {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1.2em;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 10px;
 }

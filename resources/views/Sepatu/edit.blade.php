@@ -27,7 +27,7 @@
                         <input type="text" name="sepatu_harga" class="form-control" value="{{$row->sepatu_harga}}">
                     </div>
                     <div class="mb-3">
-                        <label for="">STOCK</label>
+                        <label for="">JUMLAH PEMBELIAN</label>
                         <input type="text" name="sepatu_stock" class="form-control" value="{{$row->sepatu_stock}}">
                     </div>
                     <div class="mb-3">

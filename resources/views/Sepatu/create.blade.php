@@ -26,7 +26,7 @@
                         <input type="text" name="sepatu_harga" class="form-control" placeholder="Harga Sepatu">
                     </div>
                     <div class="mb-3">
-                        <label for=""><strong>STOCK</strong></label>
+                        <label for=""><strong>JUMLAH PEMBELIAN</strong></label>
                         <input type="text" name="sepatu_stock" class="form-control" placeholder="Stock Sepatu">
                     </div>
                     <div class="mb-3">
